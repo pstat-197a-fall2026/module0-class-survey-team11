@@ -3,3 +3,6 @@ Possible questions to be answered:
 - How much weight does taking a specific upper-division affect a students confidence in a certain aspect of capstone(math/stats/programming)?
 - Do specific classes have any possible affect on which programming language a student prefers?
 - Do different academic traits of a students have an effect on which project the student chooses to work on?
+- Do certain subject areas naturally belong to specific domains of interest?
+- Do certain subject areas or domains of interest determine a student's comfort in math/stats/programming?
+- Is one programming language more useful/popular than the other in different domains/areas?
