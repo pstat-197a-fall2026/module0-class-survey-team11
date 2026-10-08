@@ -3,4 +3,3 @@ Possible questions to be answered:
 - How much weight does taking a specific upper-division affect a students confidence in a certain aspect of capstone(math/stats/programming)?
 - Do specific classes have any possible affect on which programming language a student prefers?
 - Do different academic traits of a students have an effect on which project the student chooses to work on?
-test
