@@ -7,3 +7,13 @@ Possible questions to be answered:
 - Do certain subject areas or domains of interest determine a student's comfort in math/stats/programming?
 - Is one programming language more useful/popular than the other in different domains/areas?
 - Does the amount of PSTAT upperdivision electives taken affect a student's comfortability in math/stats/programming?
+
+Priority Order:
+1. How much weight does taking a specific upper-division affect a students confidence in a certain aspect of capstone(math/stats/programming)?
+2. Do specific classes have any possible affect on which programming language a student prefers?
+3. Does taking a specific class conntribute to a students intrest in a certain subject/area?
+4. Does the amount of PSTAT upperdivision electives taken affect a student's comfortability in math/stats/programming?
+5. Do different academic traits of a students have an effect on which project the student chooses to work on?
+6. Do certain subject areas naturally belong to specific domains of interest?
+7. Do certain subject areas or domains of interest determine a student's comfort in math/stats/programming?
+8. Is one programming language more useful/popular than the other in different domains/areas?
