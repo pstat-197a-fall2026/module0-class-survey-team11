@@ -6,3 +6,4 @@ Possible questions to be answered:
 - Do certain subject areas naturally belong to specific domains of interest?
 - Do certain subject areas or domains of interest determine a student's comfort in math/stats/programming?
 - Is one programming language more useful/popular than the other in different domains/areas?
+- Does the amount of PSTAT upperdivision electives taken affect a student's comfortability in math/stats/programming?
