@@ -17,3 +17,9 @@ Priority Order:
 6. Do certain subject areas naturally belong to specific domains of interest?
 7. Do certain subject areas or domains of interest determine a student's comfort in math/stats/programming?
 8. Is one programming language more useful/popular than the other in different domains/areas?
+
+possible set questions:
+#1 and #4 merged
+#2
+#6
+#8
