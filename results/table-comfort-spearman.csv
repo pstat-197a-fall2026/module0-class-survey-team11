@@ -1,0 +1,7 @@
+coursework,comfort,rho,p_value
+coursework_level,Programming,0.047,0.742
+coursework_level,Mathematics,0.026,0.855
+coursework_level,Statistics,-0.148,0.3
+n_electives,Programming,0.16,0.263
+n_electives,Mathematics,-0.133,0.352
+n_electives,Statistics,-0.069,0.629

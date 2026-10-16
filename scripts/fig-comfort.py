@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "results"
 
 SKILLS = {"prog": "Programming", "math": "Mathematics", "stat": "Statistics"}
-CORE = {"PSTAT 120", "PSTAT 122", "PSTAT 126", "PSTAT 131"}  # near-universal, so not counted as electives
+CORE = {"PSTAT 120", "PSTAT 122", "PSTAT 126"}
 
 bg = pd.read_csv(ROOT / "data" / "background-clean.csv")
 
